@@ -40,5 +40,4 @@ docker container run --rm damonf8086/aglcatsconsumer
 
 You will need to have docker installed, and ensure you have switched to Linux containers if running on windows.
 
-[![Build Status](https://travis-ci.org/damonf8086-2/AglCatsConsumer.svg?branch=master)](https://travis-ci.org/damonf8086-2/AglCatsConsumer)
-
+[![Build Status](https://travis-ci.org/damonf/AglCatsConsumer.svg?branch=master)](https://travis-ci.org/damonf/AglCatsConsumer)
